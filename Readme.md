@@ -78,7 +78,7 @@ Bật Đồng hồ Jetson sẽ đảm bảo tất cả CPU, GPU Lõi được xu
 
 Thế là xong phần cài đặt , tiếp theo tới phần chạy trên gpu
 
-Tìm kiếm `/usr/lib/python3.X/dist-packages/tensorrt/` và copy THƯ MỤC tensorrt chuyển nó vào môi trường ảo địa chỉ `anaconda3/envs/pyenv/lib/python3.8/site-packages/
+Tìm kiếm `/usr/lib/python3.X/dist-packages/tensorrt/` và copy THƯ MỤC `tensorrt` chuyển nó vào môi trường ảo địa chỉ `anaconda3/envs/pyenv/lib/python3.8/site-packages/`
 
 Mở terminal lên chạy
 
