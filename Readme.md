@@ -64,6 +64,10 @@ Bật Đồng hồ Jetson sẽ đảm bảo tất cả CPU, GPU Lõi được xu
 
 `python3 setup.py install --user`
 
+<h3>IF ERROR WHEN RUN python3 setup.py install --user</h3>
+
+`pip install --upgrade setuptools packaging`
+
 7 Cài đặt onnx GPU
 
 `wget https://nvidia.box.com/shared/static/zostg6agm00fb6t5uisw51qi6kpcuwzd.whl -O onnxruntime_gpu-1.17.0-cp38-cp38-linux_aarch64.whl`
