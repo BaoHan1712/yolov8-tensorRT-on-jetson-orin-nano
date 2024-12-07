@@ -8,7 +8,7 @@ Trước khi chạy hãy cài jtop
 
 `sudo apt install python3-pip`
 
-`sudo pip install jetson-stats`
+`sudo pip3 install -U jetson-stats`
 
 `sudo reboot`
 
