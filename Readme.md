@@ -1,6 +1,6 @@
 <h2>Cách chạy yolov8 bằng GPU trên jetson orin nano</h2>
 
-<h3>Yêu cầu là phải JETPACK 5x trở lên, Ở đây tôi đang chạy là JP5.1.3</h3>
+<h3>Yêu cầu là phải JETPACK 5x trở lên, Ở đây tôi đang chạy là JP5.1.3 và python 3.8</h3>
 
 Trước khi chạy hãy cài jtop
 
