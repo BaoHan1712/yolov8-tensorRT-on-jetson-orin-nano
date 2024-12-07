@@ -74,6 +74,8 @@ Bật Đồng hồ Jetson sẽ đảm bảo tất cả CPU, GPU Lõi được xu
 
 Thế là xong phần cài đặt , tiếp theo tới phần chạy trên gpu
 
+Tìm kiếm /usr/lib/python3.X/dist-packages/tensorrt/ và copy chuyển nó vào môi trường ảo
+
 Mở terminal lên chạy
 
 `yolo export model=yolov8n.pt format=engine` 
