@@ -90,3 +90,25 @@ có thể custom
 ___________________________________________________________________________________________________________________________
 
 Hãy chắc chắn rằng đã cài đủ bước và đúng thư viện , đúng phiên bản , hay chạy bằng môi trường ảo để không bị xung đột thư viện ( Đây là lời khuyên)
+
+___________________________________________________________________________________________________________________________
+<h2>INCREASE SWAP JETSON ORIN</h2> 
+
+link: "https://www.forecr.io/blogs/programming/how-to-increase-swap-space-on-jetson-modules?srsltid=AfmBOooTBbZoGPhbya1PomsL_xAF2ESo40Jx9_C-K0LTo7oQDN911_ub"
+
+___________________________________________________________________________________________________________________________
+<h2>Setup opencv cuda</h2> 
+
+`wget https://github.com/Qengineering/Install-OpenCV-Jetson-Nano/raw/main/OpenCV-4-11-0.sh` 
+
+`sudo chmod 755 ./OpenCV-4-11-0.sh`
+
+`./OpenCV-4-11-0.sh `
+
+# just a tip to save an additional 315 MB
+
+`sudo rm -rf ~/opencv`
+
+` sudo rm -rf ~/opencv_contrib`
+
+
